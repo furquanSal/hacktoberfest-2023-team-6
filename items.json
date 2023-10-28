@@ -1,0 +1,241 @@
+[
+    {
+        "id": "1",
+        "name": "Apple AirPods",
+        "preview": "img/1.jpg",
+        "photos": [
+            "img/1.jpg",
+            "img/1.jpg",
+            "img/1.jpg",
+            "img/1.jpg",
+            "img/1.jpg",
+            "img/1.jpg"
+            ],
+        "description": "White 2nd Gen AirPods with Charging Case",
+        "size": [
+            1,
+            1,
+            0,
+            1,
+            0
+        ],
+        "isAccessory": false,
+        "brand": "Apple",
+        "price": "2,599"
+    },
+    {
+        "id": "2",
+        "name": "SoundLogic Earbuds",
+        "preview": "img/2.png",
+        "photos": [
+            "img/2.png",
+            "img/2.png",
+            "img/2.png",
+            "img/2.png",
+            "img/2.png",
+            "img/2.png"
+        ],
+        "description": "Black solid sporty jacket, has a mock collar, 3 pockets, zip closure, long sleeves, straight hem, unlined lining",
+        "size": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "isAccessory": false,
+        "brand": "SoundLogic",
+        "price": "7,999"
+    },
+    {
+        "id": "3",
+        "name": "Noise",
+        "preview": "img/3.png",
+        "photos": [
+            "img/3.png",
+            "img/3.png",
+            "img/3.png",
+            "img/3.png",
+            "img/3.png",
+            "img/3.png"
+        ],
+        "description": "Black Noise 400mH Battery, Matt Black",
+        "size": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "isAccessory": false,
+        "brand": "Noise",
+        "price": "6,999"
+    },
+    {
+        "id": "4",
+        "name": "Boat Wireless Earbuds",
+        "preview": "img/4.png",
+        "photos": [
+            "img/4.png",
+            "img/4.png",
+            "img/4.png",
+            "img/4.png",
+            "img/4.png",
+            "img/4.png"
+        ],
+        "description": "Boat Wireless Earbuds",
+        "size": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "isAccessory": false,
+        "brand": "Boat",
+        "price": "9,999"
+    },
+    {
+        "id": "5",
+        "name": "Wireless Earpods V21",
+        "preview": "https://m.media-amazon.com/images/I/41zr73E-+9L._SY300_SX300_.jpg",
+        "photos": [
+            "https://m.media-amazon.com/images/I/41zr73E-+9L._SY300_SX300_.jpg",
+            "https://m.media-amazon.com/images/I/41zr73E-+9L._SY300_SX300_.jpg",
+            "https://m.media-amazon.com/images/I/41zr73E-+9L._SY300_SX300_.jpg",
+            "https://m.media-amazon.com/images/I/41zr73E-+9L._SY300_SX300_.jpg",
+            "https://m.media-amazon.com/images/I/41zr73E-+9L._SY300_SX300_.jpg",
+            "https://m.media-amazon.com/images/I/41zr73E-+9L._SY300_SX300_.jpg"
+        ],
+        "description": "boAt Airdopes 141 Bluetooth Truly Wireless in Ear Headphones with 45H Playtime,Low Latency Mode for Gaming",
+        "size": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "isAccessory": false,
+        "brand": "Hammer",
+        "price": "5,200"
+    },
+    {
+        "id": "6",
+        "name": "Wireless Airdopes 121 ",
+        "preview": "https://m.media-amazon.com/images/I/61yyQD1KLOL._SY355_.jpg",
+        "photos": [
+            "https://m.media-amazon.com/images/I/61yyQD1KLOL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61yyQD1KLOL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61yyQD1KLOL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61yyQD1KLOL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61yyQD1KLOL._SY355_.jpg",
+            "https://m.media-amazon.com/images/I/61yyQD1KLOL._SY355_.jpg"
+        ],
+        "description": "Boat Wireless Earbuds",
+        "size": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "isAccessory": true,
+        "brand": "Boat",
+        "price": "31,999"
+    },
+    {
+        "id": "7",
+        "name": "Unisex Black Fastrack Hradphones",
+        "preview": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/t/n/m/high-bass-p47-over-ear-headphone-dynamic-thunder-bass-gaming-original-imagupumz7gujcx5.jpeg?q=70",
+        "photos": [
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/t/n/m/high-bass-p47-over-ear-headphone-dynamic-thunder-bass-gaming-original-imagupumz7gujcx5.jpeg?q=70",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/t/n/m/high-bass-p47-over-ear-headphone-dynamic-thunder-bass-gaming-original-imagupumz7gujcx5.jpeg?q=70",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/t/n/m/high-bass-p47-over-ear-headphone-dynamic-thunder-bass-gaming-original-imagupumz7gujcx5.jpeg?q=70",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/t/n/m/high-bass-p47-over-ear-headphone-dynamic-thunder-bass-gaming-original-imagupumz7gujcx5.jpeg?q=70"
+        ],
+        "description": "RECTITUDE High Bass P47 Over-ear Headphone Dynamic Thunder Bass Gaming Sports Headset Bluetooth Headset",
+        "size": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "isAccessory": true,
+        "brand": "Fastrack",
+        "price": "1,999"
+    },
+    {
+        "id": "8",
+        "name": "Boat Wireless Earbuds",
+        "preview": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/0/s/m/bth-f9-pro-earbuds-upto-48-hours-playtime-with-asap-charge-original-imaghcyzhweymhzf.jpeg?q=70",
+        "photos": [
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/0/s/m/bth-f9-pro-earbuds-upto-48-hours-playtime-with-asap-charge-original-imaghcyzhweymhzf.jpeg?q=70",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/0/s/m/bth-f9-pro-earbuds-upto-48-hours-playtime-with-asap-charge-original-imaghcyzhweymhzf.jpeg?q=70",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/0/s/m/bth-f9-pro-earbuds-upto-48-hours-playtime-with-asap-charge-original-imaghcyzhweymhzf.jpeg?q=70",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/0/s/m/bth-f9-pro-earbuds-upto-48-hours-playtime-with-asap-charge-original-imaghcyzhweymhzf.jpeg?q=70",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/0/s/m/bth-f9-pro-earbuds-upto-48-hours-playtime-with-asap-charge-original-imaghcyzhweymhzf.jpeg?q=70",
+            "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/0/s/m/bth-f9-pro-earbuds-upto-48-hours-playtime-with-asap-charge-original-imaghcyzhweymhzf.jpeg?q=70"
+        ],
+        "description": "Tunifi BTH F9 Pro Earbuds Upto 48 Hours Playtime with ASAP Charge Bluetooth Headse",
+        "size": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "isAccessory": true,
+        "brand": "Boat",
+        "price": "9,990"
+    },
+    {
+        "id": "9",
+        "name": "Gear IconX Black Cord-free Fitness Earbuds",
+        "preview": "img/6.png",
+        "photos": [
+            "img/6.png",
+            "img/6.png",
+            "img/6.png",
+            "img/6.png",
+            "img/6.png",
+            "img/6.png"
+        ],
+        "description": "Boat Wireless Earbuds",
+        "size": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "isAccessory": true,
+        "brand": "Samsung",
+        "price": "13,990"
+    },
+    {
+        "id": "10",
+        "name": "boAt Airdopes 141 Bluetooth Headphones",
+        "preview": "https://m.media-amazon.com/images/I/31dXEvtxidL._SX300_SY300_QL70_FMwebp_.jpg",
+        "photos": [
+            "https://m.media-amazon.com/images/I/31dXEvtxidL._SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/31dXEvtxidL._SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/31dXEvtxidL._SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/31dXEvtxidL._SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/31dXEvtxidL._SX300_SY300_QL70_FMwebp_.jpg",
+            "https://m.media-amazon.com/images/I/31dXEvtxidL._SX300_SY300_QL70_FMwebp_.jpg"
+        ],
+        "description": "boAt Airdopes 141 Bluetooth Truly Wireless in Ear Headphones with 45H Playtime,Low Latency Mode for Gaming,",
+        "size": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "isAccessory": true,
+        "brand": "Boat",
+        "price": "14,999"
+    }
+]
